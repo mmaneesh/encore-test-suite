@@ -70,3 +70,8 @@ $RECYCLE.BIN/
 *.local.js
 credentials.json
 secrets.yml
+
+# --- typescript ---
+typescript/node_modules/
+typescript/log/
+!.env.example
